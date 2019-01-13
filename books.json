@@ -8,7 +8,7 @@
 	"ISBN" = "2226085114",
 	"comment" = ""
     }
-
+    ,
     {
 	"title" = "Nulle part mais en irlande",
 	"author" = "",
@@ -18,6 +18,65 @@
 	"comment" = "L'auteur raconte ses vacances en camping en irlande, ses impressions de voyages, des anecdotes. J'ai apprécié de voir les différents traits de caractères remarqués chez les irlandais en général. Les impressions sur les paysages sont aussi sympatiques"
 	
     }
-    
+    ,
+    {
+	"title" = "Dalva",
+	"author" = "Jim Harrison",
+	"published_date" = "1991",
+	"read_date" = "12/2018",
+	"ISBN" = "9782264016126",
+	"comment" = "L'histoire de Dalva, une femme d'une quarantaine d'année qui vient d'une famille aisée du Nebraska, et de sa famille. Racontée depuis 2 personnages principaux, Dalva et Mikael, un historien qui s'interesse à l'histoire des indiens d'amérique et en particulier aux documents de J.W Northridge, arrière grand père de Dalva qui a cotoyé les indiens en tant que missionnaire chargé de leur evangelisation au milieu de 19e siecle."
+    }
+    ,
+    {
+	"title" = "Entrez dans la danse",
+	"author" = "Jean Teulé",
+	"published_date" = "2018",
+	"read_date" = "07/2018",
+	"ISBN" = "",
+	"comment" = "1518, a Strasbourg. Un mal etrange frappe la ville, et les gens se mettent à danser, danser, jusqu'à l'épuisement et la mort. Les autorités dépassées essaient tant bien que mal de gérer le problème. Le clergé, depuis longtemps coupé des pauvres gens et vautré dans le luxe et l'abondance,  profite de la situation pour essayer de s'enrichir encore plus."
+    },
+	
+    {
+	"title" = "Un certain M. PIEKIELNY",
+	"author" = "François Henri Désérable",
+	"published_date" = "2017",
+	"read_date" = "2018",
+	"ISBN" = "9782072741418",
+	"comment" = "Au détour d'un avion manqué, l'auteur tombe par hasard sur l'ancienne maison de Romain Gary, un auteur source d'inspiration pour lui, dans la ville de Vilnius. Il se met à la recherche de M. PIEKIELNY, personne citée par Romain Gary plus tard lors de ses années de gloire dans ses discussions avec les grands hommes"
+    },
+    {
+	"title" = "Tout ceeeeeeeeeeeeeeeeees avez toujours voulu savoir sur le blob sans jamais oser le demander",
+	"author" = "Audrey Dussutour",
+	"published_date" = "2017",
+	"read_date" = "2018",
+	"ISBN" = "9782849904985",
+	"comment" = "Expériences scientifiques de l'auteur sur les blobs, racontée de façon ludique et vraiment prenante. Aussi un commentaire sur l'état de la recherche en France"
+    },
+    {
+	"title" = "Dans le jardin de l'ogre",
+	"author" = "Leila Slimani",
+	"published_date" = "2014",
+	"read_date" = "2018",
+	"ISBN" = "9782070468188",
+	"comment" = "Adèle est une femme compulsivement infidèle, qui arrive tant bien que mal a dissimuler sa honte et ses aventures a son mari, jusqu'au jour où celui-ci se retrouve cloué au lit suite à un accident de la circulation, et découvre la vérité sur sa femme"
+	
+    },
+    {
+	"title" = "Les parapluies d'Erik Satie",
+	"author" = "Stéphanie Kalfon",
+	"published_date" = "2017",
+	"read_date" = "01/2019",
+	"ISBN" = "9782072794216",
+	"comment" = "L'histoire du compositeur Erik Satie (en cours)"
+    },
+    {
+	"title" = "Sagesse geek",
+	"author" = "Stephen H. Seagal",
+	"published_date" = "2014",
+	"read_date" = "01/2019",
+	"ISBN" = "9782352948032",
+	"comment" = "En cours"
+    }
 
 }
