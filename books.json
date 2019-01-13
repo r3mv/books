@@ -1,0 +1,23 @@
+{
+
+    {
+	"title" = "Le roman de venise",
+	"author"= "Agnes Michaud",
+	"published_date" = "1996",
+	"read_date" = "11/2018",
+	"ISBN" = "2226085114",
+	"comment" = ""
+    }
+
+    {
+	"title" = "Nulle part mais en irlande",
+	"author" = "",
+	"published_date" =,
+	"read_date" = "11/2018",
+	"ISBN" = ""
+	"comment" = "L'auteur raconte ses vacances en camping en irlande, ses impressions de voyages, des anecdotes. J'ai apprécié de voir les différents traits de caractères remarqués chez les irlandais en général. Les impressions sur les paysages sont aussi sympatiques"
+	
+    }
+    
+
+}
